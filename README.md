@@ -1,1 +1,1 @@
-# Teor-a_cu-ntica_b-sica-Observables_y_Medidas
+# Teoria_cuantica_basica_Observables_y_Medidas
