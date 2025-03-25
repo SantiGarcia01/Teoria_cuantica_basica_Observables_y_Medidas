@@ -17,17 +17,6 @@ Desarrolle e incluya en el Github una discusión de los ejercicios 4.5.2 y 4.5.3
 
 Tener instalado Python en el computador ademas de algun programa el cual permita el funcionamiento como Visual Studio Code.
 
-### Instalación 
-Para instalar la librería debe tener en cuenta estos pasos:
-1. Abra la carpeta en donde desea guardar la librería.
-2. De click derecho y seleccione la opción "Git Bash"
-3. Clone el repositorio utilizando el comando 
-4. Importe el modulo de la libreria en el programa que vaya a utilizar.
-5. Para instalar jupyter se debe hacer dentro del mismo pycharm donde se aplicara el comando pip install jupyterlab
-6. Para ejecutar los programas en jupyter simplemente se debe ejecutar jupyter lab con el espacio en el terminal de pycharm y tendra los archivos listos para usar
-   
-Completado el proceso anterior podrá trabajar con la librería proporcionada.
-
 ## Lenguaje usado:
 * Python
 * GIT
